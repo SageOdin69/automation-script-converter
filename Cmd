@@ -1,0 +1,4 @@
+python ui_element_detector.py 3.png \
+    --out-dir ./ref_output \
+    --extract-template \
+    --output-grayscale
